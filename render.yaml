@@ -10,7 +10,6 @@
 services:
   - type: web
     plan: free
-    region: ohio
     # This is the runtime for services that pull a prebuilt Docker image
     runtime: image
     # You can give the service any name
